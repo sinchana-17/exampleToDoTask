@@ -1,0 +1,18 @@
+*{
+background-color:skyblue1;
+font-family:Arial, sans serif;
+padding:10px;
+text-align:center;
+}
+.container
+{
+background-color:red;
+margin-bottom:20px;
+
+}
+button
+{
+ padding:10px 20px;
+ background-color:blue;
+
+}
